@@ -148,7 +148,7 @@ This example covers how to define and call a reusable block of code (a function)
 ## 10. String Reversal
 A classic "Pythonic" example that demonstrates the power of string slicing to reverse a sequence of characters in a single line of code.
 
- Reverses a string using slicing
+ Reverses a string using slicing 
 ```python
     original_string = "Python"
 
